@@ -1,0 +1,28 @@
+# IDE and OS files
+.idea/
+.vscode/
+*.iml
+*.swp
+.DS_Store
+Thumbs.db
+
+# Maven/Spring Boot backend
+/backend/target/
+/backend/.mvn/
+/backend/*.log
+
+# Node/React frontend
+/frontend/node_modules/
+/frontend/build/
+/frontend/.pnp.*
+/frontend/.env.local
+/frontend/.env.*.local
+
+# User-generated content
+/uploads/
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
