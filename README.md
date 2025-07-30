@@ -94,6 +94,16 @@ You will need the following software installed on your machine:
 
 ---
 
+## Output
+
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/2ac57384-12c1-427f-8465-98234379bb8e" />
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/bbd2458f-8560-4e38-ae18-c7b8a6bf611e" />
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/78fee607-72e1-4e13-a2fa-2448ca50cf5e" />
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/c026e74a-3eea-42c1-9417-ba19a3c52d5c" />
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/c738df0a-74b2-4c9e-a9c5-fc139ac4818d" />
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/4d2435b1-b53a-4acd-bb42-5c9191474a73" />
+
+
 ## Usage
 
 ### Creating the First Admin User
